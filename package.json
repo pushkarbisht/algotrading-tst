@@ -1,0 +1,24 @@
+{
+  "name": "algotrading-tst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushkarbisht/algotrading-tst.git"
+  },
+  "author": "Pushkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pushkarbisht/algotrading-tst/issues"
+  },
+  "homepage": "https://github.com/pushkarbisht/algotrading-tst#readme"
+}
